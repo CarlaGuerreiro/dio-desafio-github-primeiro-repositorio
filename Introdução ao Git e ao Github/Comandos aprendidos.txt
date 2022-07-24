@@ -1,0 +1,17 @@
+Lista dos Comandos mais utilizados no curso:
+- dir: Mostra os arquivos listados na pasta.
+- cd / : utilizado para entrar em alguma pasta.
+- cd .. : volta um passo anterior.
+- ctrl + l: deixa a tela limpa.
+- ls -a: mostra os arquivos ocultos dentro da pasta.
+- rmdir + [nome do diretório]: Serve para renomear um diretório.
+- del + [nome da pasta]: Serve para deletar um arquivo.
+- git add *: serve para colocar o arquivo no stage.
+- git commit -m"contaúdo da mensagem de commit": Grava o arquivo no git. Esse comando serve para commitar os arquivos no git.
+- git remote add origin + endereço da pasta no github: Esse comando permite apontar para o repositório no github.
+- git clone + endereço da pasta no github: Serve para clonar um projeto no github.
+- git config --global user.email "colocar email aqui": serve para configurar o git igaul ao github.
+- git config --global user.name [colocar o nome]: serve para configurar o mesmo nome do github
+- git push orign master/main: serve para levar o arquivo para a nuvem do github.
+- git pull origin master/main: mandar da nuvem para o repositorio do git.
+- git remote - v: nmostra o link do github
